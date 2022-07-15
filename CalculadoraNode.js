@@ -3,7 +3,7 @@ a continuacion introducir el comando ->  node CalculadoraNode.js valor1 valor2  
 
 'use Strict'
 
-// recogemos por dela consola a partir del la posicion 2, en las anteriores estan las rutas,en el array estan valor1 y 2,  las guardo en la variable números.
+// recogemos por la consola a partir del la posicion 2, en las anteriores estan las rutas,en el array estan valor1 y 2,  las guardo en la variable números.
 var numeros = process.argv.slice(2);
 
 var numero1=parseFloat(numeros[0]);
