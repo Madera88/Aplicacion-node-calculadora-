@@ -1,4 +1,4 @@
-/* Para arrancar en la aplicacion en NODE, dirigite en la consola de comandos a la ruta donde este ubicado el archivo CalculadoraNode.js.js
+/* Para arrancar en la aplicacion en NODE, dirigite en la consola de comandos a la ruta donde este ubicado el archivo CalculadoraNode.js
 a continuacion introducir el comando ->  node CalculadoraNode.js valor1 valor2  */
 
 'use Strict'
